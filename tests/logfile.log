@@ -1,0 +1,79 @@
+2022-12-14 18:01:56,297 :INFO : test_e2e :getting all the card titles
+2022-12-14 18:01:56,572 :INFO : test_e2e :entering country name
+2022-12-14 18:02:01,909 :INFO : test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-14 18:03:43,356 :INFO : test_formSubmission :First name
+2022-12-14 18:03:44,054 :INFO : test_formSubmission :First name
+2022-12-14 18:03:44,054 :INFO : test_formSubmission :First name
+2022-12-14 18:03:48,930 :INFO : test_e2e :getting all the card titles
+2022-12-14 18:03:49,159 :INFO : test_e2e :entering country name
+2022-12-14 18:03:54,475 :INFO : test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-14 18:06:02,313 :INFO : test_formSubmission :First name
+2022-12-14 18:06:03,097 :INFO : test_formSubmission :First name
+2022-12-14 18:06:03,097 :INFO : test_formSubmission :First name
+2022-12-14 18:06:10,409 :INFO : test_e2e :getting all the card titles
+2022-12-14 18:06:10,640 :INFO : test_e2e :entering country name
+2022-12-14 18:06:15,995 :INFO : test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-14 18:07:54,354 :INFO : test_e2e :getting all the card titles
+2022-12-14 18:07:54,577 :INFO : test_e2e :entering country name
+2022-12-14 18:07:59,957 :INFO : test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-14 18:10:14,229 :INFO : test_formSubmission :First name
+2022-12-14 18:10:15,089 :INFO : test_formSubmission :First name
+2022-12-14 18:10:15,089 :INFO : test_formSubmission :First name
+2022-12-14 18:11:01,722 :INFO : test_formSubmission :First name
+2022-12-14 18:13:16,304 :INFO : test_formSubmission :First name
+2022-12-14 18:13:16,304 :INFO : test_formSubmission :First name
+2022-12-14 18:15:54,851 :INFO : test_formSubmission :First nameRahul
+2022-12-14 18:15:55,582 :INFO : test_formSubmission :First nameSyed
+2022-12-14 18:15:55,582 :INFO : test_formSubmission :First nameSyed
+2022-12-14 18:16:16,838 :INFO : test_e2e :getting all the card titles
+2022-12-14 18:16:17,117 :INFO : test_e2e :entering country name
+2022-12-14 18:16:22,443 :INFO : test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-14 18:19:48,000 :INFO : test_formSubmission :First nameRahul
+2022-12-14 18:19:49,778 :INFO : test_formSubmission :First nameSyed
+2022-12-14 18:19:49,778 :INFO : test_formSubmission :First nameSyed
+2022-12-14 18:20:10,712 :INFO : test_e2e :getting all the card titles
+2022-12-14 18:20:10,978 :INFO : test_e2e :entering country name
+2022-12-14 18:20:16,308 :INFO : test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-14 18:46:30,738 :INFO : test_formSubmission :First nameRahul
+2022-12-14 18:46:31,447 :INFO : test_formSubmission :First nameSyed
+2022-12-14 18:46:31,447 :INFO : test_formSubmission :First nameSyed
+2022-12-14 18:46:36,965 :INFO : test_e2e :getting all the card titles
+2022-12-14 18:46:37,186 :INFO : test_e2e :entering country name
+2022-12-14 18:46:42,468 :INFO : test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-14 20:36:01,789 :INFO : test_formSubmission :First nameRahul
+2022-12-14 20:36:02,824 :INFO : test_formSubmission :First nameSyed
+2022-12-14 20:36:02,824 :INFO : test_formSubmission :First nameSyed
+2022-12-14 20:36:24,952 :INFO : test_e2e :getting all the card titles
+2022-12-14 20:36:25,321 :INFO : test_e2e :entering country name
+2022-12-14 20:36:30,661 :INFO : test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-14 20:39:43,858 :INFO : test_formSubmission :First nameRahul
+2022-12-14 20:39:44,628 :INFO : test_formSubmission :First nameSyed
+2022-12-14 20:39:44,628 :INFO : test_formSubmission :First nameSyed
+2022-12-14 20:40:06,006 :INFO : test_e2e :getting all the card titles
+2022-12-14 20:40:06,275 :INFO : test_e2e :entering country name
+2022-12-14 20:40:11,705 :INFO : test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-14 20:49:24,435 :INFO : test_formSubmission :First nameRahul
+2022-12-14 20:49:25,233 :INFO : test_formSubmission :First nameSyed
+2022-12-14 20:49:25,233 :INFO : test_formSubmission :First nameSyed
+2022-12-14 20:49:47,863 :INFO : test_e2e :getting all the card titles
+2022-12-14 20:49:48,132 :INFO : test_e2e :entering country name
+2022-12-14 20:49:53,600 :INFO : test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-14 21:03:57,441 :INFO : test_formSubmission :First nameRahul
+2022-12-14 21:03:59,789 :INFO : test_formSubmission :First nameSyed
+2022-12-14 21:03:59,789 :INFO : test_formSubmission :First nameSyed
+2022-12-14 21:04:13,703 :INFO : test_e2e :getting all the card titles
+2022-12-14 21:04:13,986 :INFO : test_e2e :entering country name
+2022-12-14 21:04:19,381 :INFO : test_e2e :Text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-12-15 00:10:28,829 :INFO : test_formSubmission :First nameSyed
+2022-12-15 00:11:11,325 :INFO : test_formSubmission :First nameSyed
