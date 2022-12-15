@@ -34,6 +34,7 @@ class TestHomePage(BaseClass):
         self.driver.find_element(By.XPATH, "(//input[@type='text'])[3]").clear()
         self.driver.find_element(By.XPATH, "(//input[@type='text'])[3]").send_keys("again")
         self.driver.refresh()
+        print("git exersice in gitDemo")
 
     @pytest.fixture(params=HomePageData.getTestData("Testcase2"))
     def getData(self, request):
