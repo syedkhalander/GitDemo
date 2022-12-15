@@ -53,4 +53,9 @@ class TestOne(BaseClass):
         assert final_msg in success_text
         print("git exersice in gitDemo")
         print("hello")
+        print("hello")
+        print("hello")
+        print("hello")
+        print("hello")
+
 
