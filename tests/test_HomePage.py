@@ -39,6 +39,7 @@ class TestHomePage(BaseClass):
         print("hello")
         print("hello")
         print("hello")
+        print("new in dev")
 
     @pytest.fixture(params=HomePageData.getTestData("Testcase2"))
     def getData(self, request):
